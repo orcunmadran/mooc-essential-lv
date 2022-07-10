@@ -1,2 +1,2 @@
 # mooc-essential-lv
-MOOC Latvia Edition
+MOOC Latvian Edition
